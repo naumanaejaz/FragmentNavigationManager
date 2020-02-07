@@ -18,6 +18,6 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.naumanaejaz:FragmentNavigationManager:master-SNAPSHOT'
+    implementation 'com.github.naumanaejaz:FragmentNavigationManager:0.1'
 }
 ```
