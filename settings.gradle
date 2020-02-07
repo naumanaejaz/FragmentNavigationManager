@@ -1,0 +1,2 @@
+include ':app', ':fragmentnavigationmanager'
+rootProject.name='FragmentNavigationManager'
